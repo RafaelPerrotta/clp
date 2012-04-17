@@ -3,6 +3,7 @@
 
 Aqui estão exercicios de Conceitos de Linguagens de Programação.
 As linguagens usadas são:
+
 - Python
 - Fortran
 - C
